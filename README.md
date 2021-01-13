@@ -6,7 +6,7 @@
 🏫 I'm student of Gwangju Software Meister highschool
 💻 I am becoming a Front-end developer
 ```
-#### 📧 e-mail
+### 📧 e-mail
 ```
 - s20019@gsm.hs.kr (School)
 - yjnoh1016@naver.com (Personal)
