@@ -6,19 +6,19 @@
 🏫 I'm student of Gwangju Software Meister highschool
 💻 I am becoming a Front-end developer
 ```
-### 📧 e-mail
+
+### 💌 e-mail
 ```
 - s20019@gsm.hs.kr (School)
 - yjnoh1016@naver.com (Personal)
 ```
-### 🔥 Burning to learn 🔥
 
+### 🔥 Burning to learn 🔥
 ##### 1. React <code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 ##### 2. TypeScript <code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 ##### 3. JavaScript <code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 
-
-### My stack 🛠
+### My Stack 🛠
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -30,6 +30,8 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
+### My Records 📊 
 
 [![yjnoh1016's github stats](https://github-readme-stats.vercel.app/api?username=yjnoh1016)](https://github.com/anuraghazra/github-readme-stats)[![yjnoh1016's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yjnoh1016&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
