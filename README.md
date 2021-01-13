@@ -3,7 +3,7 @@
 
 ```
 🙌 Hello, my name is Yeonju
-🏫 I'm student of Gwangju Software Meister highschool
+🏫 I'm student of Gwangju Software Meister high school
 💻 I am becoming a Front-end developer
 ```
 
