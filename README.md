@@ -7,7 +7,7 @@
 💻 I am becoming a Front-end developer
 ```
 
-### 💌 e-mail
+### E-mail 💌
 ```
 - s20019@gsm.hs.kr (School)
 - yjnoh1016@naver.com (Personal)
