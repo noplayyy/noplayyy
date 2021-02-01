@@ -2,7 +2,7 @@
 ### Welcome to my github!!
 
 ```
-🙌 Hello, my name is Yeonju
+🙌 Hello, my name is YeonJu Noh
 🏫 I'm student of Gwangju Software Meister high school
 💻 I am becoming a Front-end developer
 ```
