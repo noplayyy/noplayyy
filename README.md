@@ -4,7 +4,7 @@
 ```
 🙌 Hello, my name is YeonJu Noh
 🏫 I'm student of Gwangju Software Meister high school
-💻 I am becoming a Front-end developer
+📱 I am becoming a iOS developer
 ```
 
 ### E-mail 💌
@@ -14,8 +14,8 @@
 ```
 
 ### 🔥 Burning to learn 🔥
-##### 1. JavaScript <code><img height="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-##### 2. Swift <code><img height="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png"></code>
+##### 1. Swift <code><img height="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png"></code>
+##### 2. JavaScript <code><img height="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 ##### 3. React <code><img height="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 
 ### My Stack 🛠
