@@ -1,8 +1,9 @@
-# Hi everyone 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Noh%20Yeonju&fontSize=85)
+<!--# Hi everyone 👋-->
 ### Welcome to my github!!!
 
 ```
-🙌 Hello, my name is YeonJu Noh
+🙌 Hello, my name is Yeonju Noh
 🏫 I'm student of Gwangju Software Meister high school
 📱 I am becoming a iOS developer
 ```
