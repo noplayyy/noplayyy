@@ -1,6 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Noh%20Yeonju&fontSize=85)
+## iOS Developer
+
+<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Noh%20Yeonju&fontSize=85) -->
 <!--# Hi everyone 👋-->
-### Welcome to my github!!!
+<!-- ### Welcome to my github!!!
 
 ```
 🙌 Hello, my name is Yeonju Noh
@@ -30,10 +32,13 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 
 
+
 ### My Records 📊 
+
+-->
 
 [![yjnoh1016's github stats](https://github-readme-stats.vercel.app/api?username=yjnoh1016)](https://github.com/anuraghazra/github-readme-stats)[![yjnoh1016's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yjnoh1016&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyjnoh1016&count_bg=%23B29BFF&title_bg=%23BAFF3F&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyjnoh1016&count_bg=%23B29BFF&title_bg=%23BAFF3F&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) -->
 
 
