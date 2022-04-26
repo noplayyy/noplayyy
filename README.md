@@ -41,7 +41,7 @@
  -->
 <!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyjnoh1016&count_bg=%23B29BFF&title_bg=%23BAFF3F&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) -->
 
-### 👋 안녕하세요
+### 👋🏻 안녕하세요
 
 #### iOS 개발자, 노연주입니다.
   
@@ -50,3 +50,7 @@
 저 자신의 가치를 높이기 위해 노력하며, 많은 사람에게 좋은 영향을 끼치기 위해 노력합니다.
 <br>
 동료와 함께할 때 가치가 더 커진다고 믿으며, 이는 곧 좋은 결과를 낳는다고 생각합니다.
+
+[✨ Portpolio](https://www.notion.so/about-noh-yeonju/About-me-26cb7dfa257148f1bbfb77c939e3f951) 
+<br>
+[📌 Rocketpunch](https://www.rocketpunch.com/@noplayyy1016)
