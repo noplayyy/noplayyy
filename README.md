@@ -50,7 +50,3 @@
 저 자신의 가치를 높이기 위해 노력하며, 많은 사람에게 좋은 영향을 끼치기 위해 노력합니다.
 <br>
 동료와 함께할 때 가치가 더 커진다고 믿으며, 이는 곧 좋은 결과를 낳는다고 생각합니다.
-
-[✨ Portpolio](https://www.notion.so/about-noh-yeonju/About-me-26cb7dfa257148f1bbfb77c939e3f951) 
-<br>
-[📌 Rocketpunch](https://www.rocketpunch.com/@noplayyy1016)
